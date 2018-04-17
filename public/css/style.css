@@ -1,0 +1,26 @@
+
+.logo {
+    margin-top: 150px;
+}
+
+.btn-logo {
+    height: 60px;
+    width: 20%;
+}
+
+.text-btn {
+    font-size: 25px;
+    font-family: "Times New Roman";
+}
+
+a {
+    text-decoration: none;
+}
+
+.table {
+    width: 10%;
+}
+
+.lien {
+    text-decoration: none;
+}
